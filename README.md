@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071A14,50:0B3D2E,100:14532D&amp;height=220&amp;section=header&amp;text=Mahdi%20Montazeri&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Software%20Developer%20%7C%20Computer%20Science%20%26%20AI&amp;descAlignY=58&amp;descSize=17"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071A14,50:0B3D2E,100:14532D&amp;height=220&amp;section=header&amp;text=Mahdi%20Montazeri&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Software%20Developer%20%7C%20Computer%20Science%20and%20AI&amp;descAlignY=58&amp;descSize=17"
     width="100%"
     alt="Mahdi Montazeri - Software Developer"
   />
@@ -23,6 +23,21 @@
 </p>
 
 ---
+
+<h2 align="left">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=montatech&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=22C55E&amp;icon_color=22C55E&amp;text_color=9CA3AF"
+    alt="GitHub Statistics"
+  />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=montatech&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=22C55E&amp;text_color=9CA3AF"
+    alt="Most Used Languages"
+  />
+</p>
 
 ## 👋 About Me
 
@@ -140,31 +155,6 @@ Areas of work include:
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=montatech&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=22C55E&amp;icon_color=22C55E&amp;text_color=9CA3AF"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=montatech&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=22C55E&amp;text_color=9CA3AF"
-    alt="Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=montatech&amp;theme=transparent&amp;hide_border=true&amp;ring=22C55E&amp;fire=F97316&amp;currStreakLabel=22C55E"
-    width="70%"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
 
 ## 🌍 Beyond Coding
 
