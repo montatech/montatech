@@ -49,12 +49,8 @@ My work spans Android development, backend engineering, web applications, and ro
 
 ## 🚀 Projects
 
-A selection of my work. Explore the repositories to learn more about each project.
+Explore the repositories to learn more about each project.
 
-- 🌐 [HamrahMadrese](https://hamrahmadrese.ir/) — Educational Platform
-- 🌲 [PyroGuard](https://github.com/montatech/REPOSITORY-NAME) — Wildfire Prevention
-- 🤖 [Robotics Projects](https://github.com/montatech/REPOSITORY-NAME) — FIRST Global
-- 📱 [Android Projects](https://github.com/montatech/REPOSITORY-NAME) — Kotlin & Android
 - 💻 [Other Projects](https://github.com/montatech?tab=repositories) — Explore all repositories
 
 ## 🏆 Achievements
