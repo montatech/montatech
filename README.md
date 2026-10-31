@@ -123,8 +123,6 @@ Areas of work include:
 
 - 🥈 **FIRST Global Challenge 2025** — Silver Award, New Tech Experience (NTE).
 - 🥈 **FIRST Global Challenge 2025** — Silver Award, Courageous Achievement.
-- 🥈 **FIRST Global Challenge 2024** — Technical Notebook Silver Award.
-- 🥈 **International Tournament of Engineering 2023** — Silver Award, London.
 - 🤖 **Team Iran** — Software programmer, FIRST Global Challenge 2025 & 2026.
 
 ## 📚 Currently Exploring
