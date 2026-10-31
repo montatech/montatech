@@ -7,8 +7,8 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/mahdimonta">
-    <img src="https://img.shields.io/badge/GitHub-mahdimonta-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/montatech">
+    <img src="https://img.shields.io/badge/GitHub-montatech-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:mahdimont67@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
