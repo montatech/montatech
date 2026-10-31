@@ -1,8 +1,8 @@
-<p align="center">
+ <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071A14,50:0B3D2E,100:14532D&amp;height=220&amp;section=header&amp;text=Mahdi%20Montazeri&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Software%20Developer%20%7C%20Computer%20Science%20and%20AI&amp;descAlignY=58&amp;descSize=17"
     width="100%"
-    alt="Mahdi Montazeri - Software Developer"
+    alt="Mahdi Montazeri"
   />
 </p>
 
@@ -36,6 +36,52 @@
     height="165"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=montatech&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=22C55E&amp;text_color=9CA3AF"
     alt="Most Used Languages"
+  />
+</p>
+
+---
+
+## 👋 About Me
+
+I'm **Mahdi Montazeri**, a software developer interested in Computer Science, Artificial Intelligence, and Robotics.
+
+My work spans Android development, backend engineering, web applications, and robotics. I enjoy building practical projects, exploring new technologies, and continuously improving my engineering skills.
+
+## 🚀 Projects
+
+A selection of my work. Explore the repositories to learn more about each project.
+
+- 🌐 [HamrahMadrese](https://hamrahmadrese.ir/) — Educational Platform
+- 🌲 [PyroGuard](https://github.com/montatech/REPOSITORY-NAME) — Wildfire Prevention
+- 🤖 [Robotics Projects](https://github.com/montatech/REPOSITORY-NAME) — FIRST Global
+- 📱 [Android Projects](https://github.com/montatech/REPOSITORY-NAME) — Kotlin & Android
+- 💻 [Other Projects](https://github.com/montatech?tab=repositories) — Explore all repositories
+
+## 🏆 Achievements
+
+- 🥈 **FIRST Global Challenge 2025** — Silver Award, New Tech Experience (NTE).
+- 🥈 **FIRST Global Challenge 2025** — Silver Award, Courageous Achievement.
+
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/montatech">GitHub</a> •
+  <a href="mailto:mahdimont67@gmail.com">Email</a> •
+  <a href="https://t.me/mahdimont1387">Telegram</a>
+</p>
+
+<p align="center">
+  <i>Stay curious. Keep building. Never stop learning.</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:14532D,50:0B3D2E,100:071A14&amp;height=100&amp;section=footer"
+    width="100%"
+    alt="Footer"
   />
 </p>
 
