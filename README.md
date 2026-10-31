@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://github.com/montatech">
-    <img src="https://img.shields.io/badge/GitHub-montatech-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-montatech-181717?style=for-the-badge&amp;logo=github" alt="GitHub" />
   </a>
   <a href="mailto:mahdimont67@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/mahdimont1387">
-    <img src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" />
   </a>
 </p>
 
@@ -47,25 +47,25 @@ I'm continuously learning, experimenting, and working on projects that challenge
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,python,java,cpp,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,python,java,cpp,c&amp;theme=dark" alt="Programming Languages" />
 </p>
 
 ### Frameworks & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=android,ktor,spring,django,flask,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=android,ktor,spring,django,flask,html,css&amp;theme=dark" alt="Frameworks and Development" />
 </p>
 
 ### Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,git,github,postman,idea,vscode,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,git,github,postman,idea,vscode,androidstudio&amp;theme=dark" alt="Databases and Tools" />
 </p>
 
 ### Embedded Systems & Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,figma,ai,ps&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,figma,ai,ps&amp;theme=dark" alt="Embedded Systems and Design" />
 </p>
 
 ## 🚀 Featured Projects
@@ -138,29 +138,33 @@ Areas of work include:
 - Advanced Software Architecture
 - Autonomous Robotics
 
+---
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=mahdimonta&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=22C55E&amp;icon_color=22C55E&amp;text_color=9CA3AF"
+    src="https://github-readme-stats.vercel.app/api?username=montatech&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=22C55E&amp;icon_color=22C55E&amp;text_color=9CA3AF"
     alt="GitHub Stats"
   />
 
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdimonta&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=22C55E&amp;text_color=9CA3AF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=montatech&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=22C55E&amp;text_color=9CA3AF"
     alt="Most Used Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=mahdimonta&amp;theme=transparent&amp;hide_border=true&amp;ring=22C55E&amp;fire=F97316&amp;currStreakLabel=22C55E"
+    src="https://streak-stats.demolab.com?user=montatech&amp;theme=transparent&amp;hide_border=true&amp;ring=22C55E&amp;fire=F97316&amp;currStreakLabel=22C55E"
     width="70%"
     alt="GitHub Contribution Streak"
   />
 </p>
+
+---
 
 ## 🌍 Beyond Coding
 
@@ -177,7 +181,7 @@ Outside programming, I enjoy:
 I'm always interested in meeting developers, collaborating on interesting projects, and learning from people around the world.
 
 <p align="center">
-  <a href="https://github.com/mahdimonta">GitHub</a> •
+  <a href="https://github.com/montatech">GitHub</a> •
   <a href="mailto:mahdimont67@gmail.com">Email</a> •
   <a href="https://t.me/mahdimont1387">Telegram</a>
 </p>
@@ -187,5 +191,9 @@ I'm always interested in meeting developers, collaborating on interesting projec
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,50:0B3D2E,100:071A14&height=100&section=footer" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:14532D,50:0B3D2E,100:071A14&amp;height=100&amp;section=footer"
+    width="100%"
+    alt="Footer"
+  />
 </p>
